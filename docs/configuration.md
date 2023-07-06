@@ -11,7 +11,7 @@ Title, icons, links, colors, and services can be configured in the `config.yml` 
 # Using this will ignore remaining config in this file
 # externalConfig: https://example.com/server-luci/config.yaml
 
-title: "App dashboard"
+title: "dashboard"
 subtitle: "Homer"
 # documentTitle: "Welcome" # Customize the browser tab text
 logo: "assets/logo.png"
